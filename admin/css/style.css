@@ -1,0 +1,43 @@
+.login-wrap .card{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	width: 450px;
+	box-shadow: 0px 0px 30px 0px rgb(193 193 193 / 50%);
+	border: none;
+}
+.login-wrap .card .card-body{
+	padding: 40px;
+}
+label {
+    font-weight: 500;
+}
+.login-wrap .card-header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.login-wrap .card-header{
+	background: #000;
+}
+.login-wrap .card-header h5, .login-wrap .card-header p{
+	color: #fff;
+}
+.bg-black{
+	background: #000;
+	color: #fff;
+}
+.slidbar-wrap{
+	background: #000;
+	width: 200px;
+	height: 700px;
+}
+.shadow-box{
+	box-shadow: 0 0 13px 0 rgb(236 236 241 / 44%);
+	background: #fff;
+	padding: 30px;
+}
